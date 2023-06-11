@@ -44,8 +44,6 @@ def max_marks(list1):
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
 
-## Output:
-
 ### I) USING LIST METHOD SORT: 
 ![214597273-4967a4d6-ba8e-4a08-9b28-ff836b2c6bfc](https://github.com/SivaramakrishnanBaskar/FindMaximum/assets/119476322/b384a7ca-f6a1-4e9b-9bcb-ae73fe92d40a)
 
