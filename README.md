@@ -27,7 +27,7 @@ def max_marks(marks):
 
 ## II) To find the maximum marks using the list method max().
 ```
-def max_marks(marks):
+def max_marks(marks): 
    large = max(marks)
    return large
 ```
